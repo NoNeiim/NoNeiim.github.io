@@ -5,14 +5,6 @@ categories: [network,ssh]
 tags: [network,ssh,authenticate]
 ---
 
-There a multiple protocols to use when authenticating to Github:
-
-* HTTPS
-* SSH
-* Github CLI
-
-### Here we will use SSH protocol
-
 
 [openSSH](https://www.ssh.com/academy/ssh/agent) is a implementation of the ssh protocol and runs on most linux systems, for windows users, [Putty](https://www.putty.org/) is most likely your best option. 
 
